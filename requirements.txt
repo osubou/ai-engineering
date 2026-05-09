@@ -1,0 +1,7 @@
+boto3
+anthropic
+langchain
+langchain-aws
+langchain-community
+python-dotenv
+jupyter
